@@ -9,7 +9,7 @@
 ### We are going to learn 7 type of sentences with is project. 
 
 
-#### Any time the app is run a type of sentence is selected and we take about it with example
+#### Anytime the app is run a type of sentence is selected and we talk about it with example
 ---
 ---
 ###### I HAVE NO RIGHTS TO THE SENTENCES OR THE EXPLANATION; THEY ARE ALL FROM https://englishsentences.com
